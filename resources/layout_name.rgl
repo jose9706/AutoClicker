@@ -1,0 +1,26 @@
+#
+# rgl layout text file (v4.0) - raygui layout file generated using rGuiLayout
+#
+# Number of controls:     15
+#
+# Ref. window:    r <x> <y> <width> <height>
+# Anchor info:    a <id> <name> <posx> <posy> <enabled>
+# Control info:   c <id> <type> <name> <rectangle> <anchor_id> <text>
+#
+r 0 40 -1 -1
+a 001 anchor01 288 128 1
+c 000 0 WindowBox000 0 -8 488 312 1 4Fun Auto clicker
+c 001 12 TextBox001 24 40 64 24 1 Mins
+c 002 4 Label002 24 16 120 24 1 Interval
+c 003 8 Toggle003 24 88 88 24 1 Start
+c 004 12 TextBox004 88 40 64 24 1 Seconds
+c 005 12 TextBox005 152 40 40 24 1 Ms
+c 006 4 Label006 264 16 120 24 1 Random delay
+c 007 12 TextBox007 264 40 120 24 1 +- Ms
+c 008 5 Button008 112 88 96 24 1 Stop
+c 009 4 Label009 24 160 120 24 1 Stop after X clicks
+c 010 12 TextBox010 24 184 120 24 1 0
+c 011 4 Label011 264 88 120 24 1 Start Delay
+c 012 12 TextBox012 264 112 64 24 1 Mins
+c 013 12 TextBox013 328 112 64 24 1 Seconds
+c 014 12 TextBox014 392 112 40 24 1 Ms
